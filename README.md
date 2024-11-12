@@ -1,6 +1,5 @@
-# Predicting-House-Sales
-# Practical Exam: House sales
 
+## Datacamp Practical Exam: House sales
 RealAgents is a real estate company that focuses on selling houses.
 
 RealAgents sells a variety of types of house in one metropolitan area.
